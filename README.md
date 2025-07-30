@@ -13,7 +13,7 @@ We'll explore how to guide your program's logic using:
 
 Let's unpack what each program does and how it achieves its goal.
 
-══════════════════ ◈ ══════════════════
+***
 
 ### 🔢 **1. Even or Odd Checker**
 
@@ -30,8 +30,7 @@ Let's unpack what each program does and how it achieves its goal.
     > 42 is Even.
     > ```
 
-══════════════════ ◈ ══════════════════
-
+***
 ### 🔤 **2. Vowel or Consonant Checker**
 
 * **🎯 Purpose**: To determine if a given letter is a vowel or a consonant.
@@ -44,7 +43,7 @@ Let's unpack what each program does and how it achieves its goal.
     > Entered character is a vowel
     > ```
 
-══════════════════ ◈ ══════════════════
+***
 
 ### 🏆 **3. Largest of Three Numbers**
 
@@ -63,8 +62,7 @@ Let's unpack what each program does and how it achieves its goal.
     > 21 is the largest number
     > ```
 
-══════════════════ ◈ ══════════════════
-
+***
 ### 📋 **4. Employee Details Menu**
 
 * **🎯 Purpose**: To act like a small information kiosk, displaying employee data based on a user's menu choice.
