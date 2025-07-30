@@ -1,3 +1,5 @@
+Of course! Here’s the README with more distinct and decorative separators to make the sections stand out.
+
 💻 C++ Fundamentals: A Guide to Control Flow ⚙️
 Welcome! This repository breaks down some of the most important building blocks in programming: control flow statements. Think of these as the brain of your program, allowing it to make smart decisions and take different actions based on the situation.
 
@@ -11,6 +13,8 @@ switch-case statements
 
 🚀 Dive Into the Program Logic 🚀
 Let's unpack what each program does and how it achieves its goal.
+
+══════════════════ ◈ ══════════════════
 
 🔢 1. Even or Odd Checker
 🎯 Purpose: To figure out if a number is even or odd.
@@ -26,7 +30,7 @@ If there's any other remainder, the number is Odd.
 Enter a number
 42
 42 is Even.
---- • --- • ---
+══════════════════ ◈ ══════════════════
 
 🔤 2. Vowel or Consonant Checker
 🎯 Purpose: To determine if a given letter is a vowel or a consonant.
@@ -37,7 +41,7 @@ Enter a number
 
 Enter a character: E
 Entered character is a vowel
---- • --- • ---
+══════════════════ ◈ ══════════════════
 
 🏆 3. Largest of Three Numbers
 🎯 Purpose: To find the champion among three numbers—the largest one!
@@ -56,7 +60,7 @@ Enter first number: 9
 Enter second number: 21
 Enter third number: 15
 21 is the largest number
---- • --- • ---
+══════════════════ ◈ ══════════════════
 
 📋 4. Employee Details Menu
 🎯 Purpose: To act like a small information kiosk, displaying employee data based on a user's menu choice.
